@@ -1,2 +1,2 @@
-# myProjectEuler
-Personal solutions to problems proposed by Project Euler in Python and Julia. In progress.
+# myProjectEuclid
+Personal solutions to problems proposed by Project Euclid in Python and Julia. In progress.
